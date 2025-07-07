@@ -4,19 +4,19 @@ A Next.js dashboard for optimizing AI prompts using the Doppler API. Connect you
 
 ## Top Features
 
-- **Multi-select optimization** - Select and optimize multiple prompts at once
-- **Real-time tracking** - Monitor optimization progress with live updates
-- **Diff comparison** - Side-by-side view of original vs optimized prompts  
-- **One-click deployment** - Deploy optimized prompts directly to production
+- 🎯 **Multi-select optimization** - Select and optimize multiple prompts at once
+- 📊 **Real-time tracking** - Monitor optimization progress with live updates
+- 🔍 **Diff comparison** - Side-by-side view of original vs optimized prompts  
+- 🚀 **One-click deployment** - Deploy optimized prompts directly to production
 
 ## Quick Start Checklist
 
 To get the dashboard working with your data:
 
-1. **Connect data source** (`lib/data-source.ts`) - Point to your eval database/API
-2. **Map fields** (`lib/mapping.ts`) - Map your data fields to Doppler format
-3. **Set API key** (`.env.local`) - Add your Doppler API key
-4. **Configure deployment** (`lib/deploy.ts`) - Set up where optimized prompts go
+1. 🔌 **Connect data source** (`lib/data-source.ts`) - Point to your eval database/API
+2. 🗺️ **Map fields** (`lib/mapping.ts`) - Map your data fields to Doppler format
+3. 🔑 **Set API key** (`.env.local`) - Add your Doppler API key
+4. 🚀 **Configure deployment** (`lib/deploy.ts`) - Set up where optimized prompts go
 
 ## Setup
 
