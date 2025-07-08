@@ -90,7 +90,7 @@ export const deployer = new ApiPromptDeployer("https://deploy-api.com", "api-key
 Handles Doppler API calls. Customize base URL if needed:
 
 ```typescript
-const DOPPLER_API_BASE = process.env.DOPPLER_API_BASE || 'https://api.doppler.com';
+const DOPPLER_API_BASE = process.env.DOPPLER_API_BASE || 'https://api.dopplr.dev';
 ```
 
 ## Data Format

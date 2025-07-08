@@ -26,8 +26,9 @@ export default function RootLayout({
                 <Image
                   src="/carecycle_icon.svg"
                   alt="careCycle"
-                  width={140}
-                  height={140}
+                  width={160}
+                  height={160}
+                  /* className="rounded-lg border border-gray-800" */
                 />
                 
               </div>
