@@ -24,10 +24,10 @@ export default function RootLayout({
             <div className="container mx-auto px-4 py-3">
               <div className="flex items-center justify-between">
                 <Image
-                  src="/carecycle_icon.svg"
-                  alt="careCycle"
-                  width={160}
-                  height={160}
+                  src="/doppler_icon.png"
+                  alt="doppler"
+                  width={120}
+                  height={120}
                   /* className="rounded-lg border border-gray-800" */
                 />
                 
