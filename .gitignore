@@ -78,5 +78,4 @@ coverage/
 /data/ 
 
 # Public directory (ignore everything except doppler_icon.png)
-/public/*
-!/public/doppler_icon.png
+/icons
